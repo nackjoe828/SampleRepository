@@ -1,2 +1,4 @@
 text file in testing branch
 added comment from master branch
+added from testing branch
+merged after conflict
